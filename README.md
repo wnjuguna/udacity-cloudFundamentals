@@ -8,5 +8,4 @@
  - Create CloudFront distribution for s3 bucket
 
 ## TODO:
- - Add Google analytics
  - Build CloudFormation template
