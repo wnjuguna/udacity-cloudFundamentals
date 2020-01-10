@@ -4,8 +4,8 @@
 #H2 How to deploy:
  - Create a publicly accessible s3 bucket
  - Upload src to s3
+ - Create IAM Policy for s3 bucket
  - Create CloudFront distribution for s3 bucket
- - Create OAI for your cloudfront distribution
 
 #H2 TODO:
  - Add Google analytics
